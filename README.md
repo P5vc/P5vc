@@ -1,1 +1,1 @@
-![](https://priveasy.org/static/img/Logo.png)
+![](https://raw.githubusercontent.com/P5vc/Documentation/master/Logo/LogoWithText.svg)
