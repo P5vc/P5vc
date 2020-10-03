@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/P5vc/Documentation/master/Logo/MerchDesign1Render.png)
+![](https://raw.githubusercontent.com/P5vc/Documentation/master/Logo/LogoWithTextHighResolutionRender.png)
 
 ------------
 
