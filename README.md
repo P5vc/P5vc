@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/P5vc/Documentation/master/Logo/LogoWithURLText.svg)
+![](https://raw.githubusercontent.com/P5vc/Documentation/master/Logo/LogoWithURLTextHighResolutionRender.png)
 
 ------------
 
