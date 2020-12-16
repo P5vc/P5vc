@@ -8,7 +8,7 @@ If you are new here, please visit our [About](https://github.com/P5vc/Documentat
 
 ## Core Repositories
 
-Priveasy is made-up of three core repositories. These are the repositories responsible for powering all of Priveasy's services.
+Priveasy is made-up of three core repositories. These are the repositories responsible for powering all of Priveasy's main services.
 
 ### [ServerConfigurations](https://github.com/P5vc/ServerConfigurations "ServerConfigurations")
 
@@ -21,6 +21,14 @@ Priveasy is made-up of three core repositories. These are the repositories respo
 ### [VPNServerBackend](https://github.com/P5vc/VPNServerBackend "VPNServerBackend")
 
 **VPNServerBackend** contains the code automatically run by our VPN servers in order to manage user accounts, create and implement VPN configurations, modify firewall rules, etc. If you want to contribute to (or learn more about) our VPN servers, you'll find what you're looking for here!
+
+## Extensions
+
+Extensions are projects supported by Priveasy, and often developed in collaboration with other important organizations. While extensions may be developed or published by Priveasy, and coincide with our ideals, they do not make up any of Priveasy's main services. Projects in this section may have various licenses and/or contribution requirements.
+
+### [BadApple](https://github.com/P5vc/BadApple "BadApple")
+
+**BadApple** is a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository contains the web application backend.
 
 ## Base Repositories
 
