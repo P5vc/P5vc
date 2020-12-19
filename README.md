@@ -28,7 +28,11 @@ Extensions are projects supported by Priveasy, and often developed in collaborat
 
 ### [BadApple](https://github.com/P5vc/BadApple "BadApple")
 
-**BadApple** is a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository contains the web application backend.
+**BadApple** is a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository contains BadApple resources and documentation.
+
+### [BadAppleBackend](https://github.com/P5vc/BadAppleBackend "BadAppleBackend")
+
+**BadAppleBackend** contains the web application backend for BadApple: a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable.
 
 ## Base Repositories
 
