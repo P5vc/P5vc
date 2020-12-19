@@ -26,13 +26,13 @@ Priveasy is made-up of three core repositories. These are the repositories respo
 
 Extensions are projects supported by Priveasy, and often developed in collaboration with other important organizations. While extensions may be developed or published by Priveasy, and coincide with our ideals, they do not make up any of Priveasy's main services. Projects in this section may have various licenses and/or contribution requirements.
 
-### [BadApple](https://github.com/P5vc/BadApple "BadApple")
+### BadApple
 
-**BadApple** is a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository contains BadApple resources and documentation.
+**BadApple** is a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository contains BadApple resources and documentation, and will be made public once base development is complete.
 
-### [BadAppleBackend](https://github.com/P5vc/BadAppleBackend "BadAppleBackend")
+### BadAppleBackend
 
-**BadAppleBackend** contains the web application backend for BadApple: a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable.
+**BadAppleBackend** contains the web application backend for BadApple: a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository will be made public once base development is complete.
 
 ## Base Repositories
 
