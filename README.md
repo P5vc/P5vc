@@ -14,9 +14,9 @@ Priveasy is made-up of three core repositories. These are the repositories respo
 
 **ServerConfigurations** is exactly what it sounds like: this repository contains the exact code that *FetchApply*, well, fetches and applies to our servers, in order to set them up from scratch, configure them, and then maintain them. If you are interested in server management or security, this is the repository for you!
 
-### [WebserverBackend](https://github.com/P5vc/WebserverBackend "WebserverBackend")
+### [PriveasyWebserverBackend](https://github.com/P5vc/PriveasyWebserverBackend "PriveasyWebserverBackend")
 
-**WebserverBackend** contains our web application backend. Unlike *ServerConfigurations*, which aims to configure and maintain the physical servers themselves, WebserverBackend focuses on processing requests made to Priveasy's website, and then properly communicating with our databases and other necessary entities in order to return a proper response. All of our webdesign elements are also included in this repository. If you enjoy webserver backends, web design, or Django, you'll definitely want to check this repository out!
+**PriveasyWebserverBackend** contains our web application backend. Unlike *ServerConfigurations*, which aims to configure and maintain the physical servers themselves, WebserverBackend focuses on processing requests made to Priveasy's website, and then properly communicating with our database and other necessary entities in order to return a proper response. All of our webdesign elements are also included in this repository. If you enjoy webserver backends, web design, or Django, you'll definitely want to check this repository out!
 
 ### [VPNServerBackend](https://github.com/P5vc/VPNServerBackend "VPNServerBackend")
 
@@ -57,3 +57,11 @@ Community Contributions are repositories containing code which Priveasy acknowle
 ### [BotBlock](https://github.com/P5vc/BotBlock "BotBlock")
 
 **BotBlock** is a modern, self-hosted, privacy-respecting, completely automated, public Turing test, to tell computers and humans apart. We use this upon registration to help prevent bots from spamming our servers with fake accounts.
+
+## Retired Repositories
+
+Retired repositories contain code that is no longer used in our production environment, yet still serves as important reference material and to document the history of Priveasy.
+
+### [WebserverBackend](https://github.com/P5vc/WebserverBackend "WebserverBackend")
+
+**WebserverBackend** contains our old web application backend. Retired at the end of 2020, this repository has been succeeded by [PriveasyWebserverBackend](https://github.com/P5vc/PriveasyWebserverBackend "PriveasyWebserverBackend").
