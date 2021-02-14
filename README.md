@@ -8,15 +8,19 @@ If you are new here, please visit our [About](https://github.com/P5vc/Documentat
 
 ## Core Repositories
 
-Priveasy is made-up of three core repositories. These are the repositories responsible for powering all of Priveasy's main services.
+Priveasy is made-up of four core repositories. These are the repositories responsible for powering all of Priveasy's main services.
 
 ### [ServerConfigurations](https://github.com/P5vc/ServerConfigurations "ServerConfigurations")
 
-**ServerConfigurations** is exactly what it sounds like: this repository contains the exact code that *FetchApply*, well, fetches and applies to our servers, in order to set them up from scratch, configure them, and then maintain them. If you are interested in server management or security, this is the repository for you!
+**ServerConfigurations** is exactly what it sounds like: this repository contains the exact code that *FetchApply*, well, fetches and applies to all of our servers, in order to set them up from scratch, configure them, and then maintain them. If you are interested in server management or security, this is the repository for you!
 
 ### [PriveasyWebserverBackend](https://github.com/P5vc/PriveasyWebserverBackend "PriveasyWebserverBackend")
 
-**PriveasyWebserverBackend** contains our web application backend. Unlike *ServerConfigurations*, which aims to configure and maintain the physical servers themselves, WebserverBackend focuses on processing requests made to Priveasy's website, and then properly communicating with our database and other necessary entities in order to return a proper response. All of our webdesign elements are also included in this repository. If you enjoy webserver backends, web design, or Django, you'll definitely want to check this repository out!
+**PriveasyWebserverBackend** contains our web application backend. Unlike *ServerConfigurations*, which aims to configure and maintain the servers themselves, WebserverBackend focuses specifically on processing requests made to Priveasy's website, and then communicating with our database and other necessary entities in order to return a proper response. If you enjoy webserver backends, dynamic web design, or Django, you'll definitely want to check this repository out!
+
+### [PriveasyWebDesign](https://github.com/P5vc/PriveasyWebDesign "PriveasyWebDesign")
+
+**PriveasyWebDesign** is used to model our web pages in a static format, before converting them to Django templates and adding them to *PriveasyWebserverBackend*. This repository is useful for quickly testing changes in popular editors, and then easily serving those changes locally for instant review. Because our official web pages are dynamic and optimized, there may be additional files for modeling various views, higher-quality resources, and plenty of filler text in this repository. If you're someone who loves webdesign (HTML, CSS, JS, Bootstrap, etc.), and you want to make changes to the site, this will be your best resource!
 
 ### [VPNServerBackend](https://github.com/P5vc/VPNServerBackend "VPNServerBackend")
 
