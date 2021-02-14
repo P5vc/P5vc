@@ -8,7 +8,7 @@ If you are new here, please visit our [About](https://github.com/P5vc/Documentat
 
 ## Core Repositories
 
-Priveasy is made-up of four core repositories. These are the repositories responsible for powering all of Priveasy's main services.
+Priveasy is made-up of four, core repositories. These are the repositories responsible for powering all of Priveasy's main services.
 
 ### [ServerConfigurations](https://github.com/P5vc/ServerConfigurations "ServerConfigurations")
 
@@ -20,7 +20,7 @@ Priveasy is made-up of four core repositories. These are the repositories respon
 
 ### [PriveasyWebDesign](https://github.com/P5vc/PriveasyWebDesign "PriveasyWebDesign")
 
-**PriveasyWebDesign** is used to model our web pages in a static format, before converting them to Django templates and adding them to *PriveasyWebserverBackend*. This repository is useful for quickly testing changes in popular editors, and then easily serving those changes locally for instant review. Because our official web pages are dynamic and optimized, there may be additional files for modeling various views, higher-quality resources, and plenty of filler text in this repository. If you're someone who loves webdesign (HTML, CSS, JS, Bootstrap, etc.), and you want to make changes to the site, this will be your best resource!
+**PriveasyWebDesign** is used to model our web pages in a static format, before converting them to Django templates and adding them to *PriveasyWebserverBackend*. This repository is useful for quickly testing changes in popular editors, and then easily serving those changes locally, for instant review. Because our official web pages are dynamic and optimized, there may be additional files for modeling various views, higher-quality resources, and plenty of filler text in this repository. If you're someone who loves web design (HTML, CSS, JS, Bootstrap, etc.), and you want to make changes to the site, this will be your best resource!
 
 ### [VPNServerBackend](https://github.com/P5vc/VPNServerBackend "VPNServerBackend")
 
@@ -28,7 +28,7 @@ Priveasy is made-up of four core repositories. These are the repositories respon
 
 ## Extensions
 
-Extensions are projects supported by Priveasy, and often developed in collaboration with other important organizations. While extensions may be developed or published by Priveasy, and coincide with our ideals, they do not make up any of Priveasy's main services. Projects in this section may have various licenses and/or contribution requirements.
+Extensions are projects supported by Priveasy, and often developed in collaboration with other, important organizations. While extensions may be developed or published by Priveasy, and coincide with our ideals, they do not make up any of Priveasy's main services. Projects in this section may have various licenses and/or contribution requirements.
 
 ### BadApple
 
@@ -37,6 +37,10 @@ Extensions are projects supported by Priveasy, and often developed in collaborat
 ### BadAppleBackend
 
 **BadAppleBackend** contains the web application backend for BadApple: a collaboration between Priveasy and the Aaron Swartz Day Police Surveillance Project, aiming to provide valuable resources to help hold law enforcement accountable. This repository will be made public once base development is complete.
+
+### BadAppleWebDesign
+
+**BadAppleWebDesign** is used to model Bad Apple web pages in a static format, before converting them to Django templates and adding them to *BadAppleWebserverBackend*. This repository is useful for quickly testing changes in popular editors, and then easily serving those changes locally, for instant review. Because finalized Bad Apple web pages are dynamic and optimized, there may be additional files for modeling various views, higher-quality resources, and plenty of filler text in this repository. If you're someone who loves web design (HTML, CSS, JS, Bootstrap, etc.), and you want to make changes to Bad Apple's website, you're in the right place! This repository will be made public once base development is complete.
 
 ## Base Repositories
 
