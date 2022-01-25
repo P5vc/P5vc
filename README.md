@@ -62,6 +62,10 @@ Community Contributions are repositories containing code which Priveasy acknowle
 
 **BotBlock** is a modern, self-hosted, privacy-respecting, completely automated, public Turing test, to tell computers and humans apart. We use this upon registration to help prevent bots from spamming our servers with fake accounts.
 
+### [Zecwallet-Python](https://github.com/P5vc/Zecwallet-Python "Zecwallet-Python")
+
+**Zecwallet-Python** is a simple wrapper around the Zecwallet Command Line LightClient written in Python, allowing Python programs to easily interact with a fully-capable, lightweight Zcash wallet.
+
 ## Retired Repositories
 
 Retired repositories contain code that is no longer used in our production environment, yet still serves as important reference material and to document the history of Priveasy.
